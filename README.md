@@ -99,7 +99,6 @@ A compact, no-fluff README that distills the four PDFs (Week 1–4) into **key l
 
 ## Formula Glossary (One-Pager)
 
-```text
 FV = PV × (1 + r)^t
 PV = FV / (1 + r)^t
 r = (FV/PV)^(1/t) − 1
@@ -136,7 +135,6 @@ WACC = (E/(D+E))Re + (D/(D+E))Rd_after
 
 **3) FCF (simple)**
 
-```
 NOPAT = 70
 ΔWC = +50 (cash outflow)
 Dep = 100
