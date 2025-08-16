@@ -1,4 +1,3 @@
-````markdown
 # Finance for Non-Finance Professionals — Quick Notes
 
 A compact, no-fluff README that distills the four PDFs (Week 1–4) into **key learnings**, **must-know formulas**, and **practical tips**.
@@ -118,7 +117,6 @@ FCF = NOPAT − ΔWC + Dep − CAPEX + After-tax Salvage
 Re = Rf + β × (Equity Premium)
 Rd_after = Rd_pre × (1 − tc)
 WACC = (E/(D+E))Re + (D/(D+E))Rd_after
-````
 
 ---
 
