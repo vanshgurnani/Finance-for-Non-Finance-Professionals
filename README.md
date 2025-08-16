@@ -1,7 +1,5 @@
 # Finance for Non-Finance Professionals — Quick Notes
 
-A compact, no-fluff README that distills the four PDFs (Week 1–4) into **key learnings**, **must-know formulas**, and **practical tips**.
-
 > Source decks: `week1.pdf`, `week2.pdf`, `week3.pdf`, `week4.pdf`
 
 ---
